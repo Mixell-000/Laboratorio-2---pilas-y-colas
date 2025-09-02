@@ -37,6 +37,7 @@ class Nodo<T> {
         }
 
     }
+
 class PilaEnlazada{
     //atributos
     Nodo<T/*valor por definir*/> tope;
