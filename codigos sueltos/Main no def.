@@ -1,0 +1,88 @@
+import java.util.*;
+import java.io.*;
+
+class PilaEnlazada{
+    //atributos
+    Nodo<T/*valor por definir*/> tope;
+    
+    
+    //Metodos
+    public void push(T/*valor por definir*/ valor){
+        
+    }
+    
+    public T/*valor por definir*/ pop(){
+        
+    }
+    
+    public T/*valor por definir*/ peek(){
+        
+    }
+    
+    public boolean isEmpty(){
+        
+    }
+    
+    public String toString(){
+        
+    }
+}
+
+class ColaEnlazada{
+    //atributos
+    Nodo<T/*valor por definir*/> incio;
+    
+    
+    //metodos
+    public bool add(T/*valor por definir*/ valor){
+        
+    }
+    
+    public T/*valor por definir*/ poll(){
+        
+    }
+    
+    public T/*valor por definir*/ peek(){
+        
+    }
+    public boolean isEmpty(){
+        
+    }
+    
+}
+
+class Main{
+    //atributos
+    static long semilla;
+    static double probFallo;
+    static int numAlertas;
+    static int limiteRecusrsion;
+    
+    
+    //metodos
+    public static void generarAlertas(int numAlertas){
+        
+    }
+    public static void iniciarSimulacion(){
+        
+    }
+
+}
+
+class Alerta{
+    //atributos
+    String nombre;
+    double probFallo;
+    int limiteAlertas;
+    
+    
+    //metodos
+    public Alerta(String name, double probFallo){
+        
+    }
+    
+    public boolean procesarLlamada(PilaEnlazada pila, int limite){
+        
+    }
+    
+}
