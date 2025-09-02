@@ -6,8 +6,10 @@ para los graficos, el y axis es recomendable que sea siempre el mismo, ej:tiempo
 
 la introduccion no es tan importante, podemos pegar y copiar la introduccion directamente del lab 2.
 
+T es un tipo de dato
 
 
+el constructor esta hehco en la guia
 
 
 
